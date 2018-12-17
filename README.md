@@ -147,6 +147,3 @@ Mike Bostock - for his data visualization applets. View them here!
 
 As well as the developers of the many programs and scripts that I have incorporated into our project, including ETE3, usearch/muscle, RAxML, FastTree, ... I am sorry if I have forgotten you!
 
-## Contact
-
-If you experience any bugs or difficulties in installing/using the HardCORE application, feel free to contact me (Brian) at brianhylee99@gmail.com . Nick at BFSSI may also be able to help; feel free to drop by his office or send an email at bfssi.nicholas.petronella@gmail.com
